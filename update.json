@@ -1,0 +1,36 @@
+{
+  "*":{
+    "dev":{
+      "version": 2,
+      "downloadAndroidUrl":"",
+      "downloadIosUrl":""
+    },
+    "prod":{
+      "version": 5,
+      "downloadAndroidUrl":"https://qgzptafktakixnqkqxdv.supabase.co/storage/v1/object/sign/consumer-app/bundle/index.android.bundle.zip?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jOWMwMzVlYy03MmM1LTRlY2QtYjNjZi1iZmE4MWY0NjE5MTgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjb25zdW1lci1hcHAvYnVuZGxlL2luZGV4LmFuZHJvaWQuYnVuZGxlLnppcCIsImlhdCI6MTc0OTEwNTk2MywiZXhwIjoxNzgwNjQxOTYzfQ.ct8h6H-i2Xa7K1GHWChfq8UwZNnm__q4FiXxsqR4_kg",
+      "downloadIosUrl":""
+    }
+  },
+  "9825482127":{
+    "dev":{
+      "version": 1,
+      "downloadAndroidUrl":"",
+      "downloadIosUrl":""
+    },
+    "prod":{
+      "version": 8,
+      "downloadAndroidUrl":"https://qgzptafktakixnqkqxdv.supabase.co/storage/v1/object/sign/consumer-app/bundle/index.android.bundle.zip?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jOWMwMzVlYy03MmM1LTRlY2QtYjNjZi1iZmE4MWY0NjE5MTgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjb25zdW1lci1hcHAvYnVuZGxlL2luZGV4LmFuZHJvaWQuYnVuZGxlLnppcCIsImlhdCI6MTc0OTEwNTk2MywiZXhwIjoxNzgwNjQxOTYzfQ.ct8h6H-i2Xa7K1GHWChfq8UwZNnm__q4FiXxsqR4_kg",
+      "downloadIosUrl":""
+    }
+  },
+  "1234567890":{
+    "dev":{
+      "downloadAndroidUrl":"",
+      "downloadIosUrl":""
+    },
+    "prod":{
+      "downloadAndroidUrl":"",
+      "downloadIosUrl":""
+    }
+  }
+}
